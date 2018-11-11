@@ -7,7 +7,7 @@ cd pongasunombreyapellidosinespacios
 sudo apt-get install -y libunwind8 libcurl3
 
 
-#command-line1
+#command-line1 en deploy de página de devops
 
 rm -rf /opt/bitnami/nginx/html/$(foldername)
 mkdir /opt/bitnami/nginx/html/$(foldername)
